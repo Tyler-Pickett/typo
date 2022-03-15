@@ -1,2 +1,2 @@
 # typo
-personal projects
+Workbook projects
