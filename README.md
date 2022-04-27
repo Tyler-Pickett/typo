@@ -1,2 +1,2 @@
 # typo
-Workbook projects
+Workbook projects & Kaggle competitions
